@@ -16,6 +16,7 @@ Hello, my name is Larissa. 😊
  ➥ Python: ⭐
  ➥ C: ⭐
  ➥ C#: ⭐
+ ➥ .Net: ⭐
  ➥ C++: ⭐
  ➥ PHP: ⭐
  
