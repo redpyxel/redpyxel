@@ -6,33 +6,33 @@ Hello, my name is Larissa. 😊
 🌱 I'm learning technologies as:
  
               ✨ Front-end ✨
- ➥ HTML/CSS: ⭐⭐⭐⭐
- ➥ JavaScript: ⭐⭐⭐
- ➥ React: ⭐
+➥ HTML/CSS: ⭐⭐⭐⭐
+➥ JavaScript: ⭐⭐⭐
+➥ React: ⭐
  
               ✨ Back-end ✨
- ➥ Node: ⭐
- ➥ Java: ⭐
- ➥ Python: ⭐
- ➥ C: ⭐
- ➥ C#: ⭐
- ➥ .Net: ⭐
- ➥ C++: ⭐
- ➥ PHP: ⭐
+➥ Node: ⭐
+➥ Java: ⭐
+➥ Python: ⭐
+➥ C: ⭐
+➥ C#: ⭐
+➥ .Net: ⭐
+➥ C++: ⭐
+➥ PHP: ⭐
  
               ✨ Data Base ✨
  
- ➥ MySQL: ⭐
- ➥ MongoDB: ⭐
+➥ MySQL: ⭐
+➥ MongoDB: ⭐
  
               ✨ Mobile ✨
- ➥ Kotlin: ⭐
+➥ Kotlin: ⭐
  
               ✨ Other technologies ✨
- ➥ GIT: ⭐⭐⭐
+➥ GIT: ⭐⭐⭐
  
  
- 📧 o.larissax@gmail.com
+📧 o.larissax@gmail.com
 
 <!--
 **redpyxel/redpyxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
