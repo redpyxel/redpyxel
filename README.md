@@ -1,7 +1,7 @@
 ### 
-                                                            💻 Front-End Developer 
+<h2 align="center">💻 Front-End Developer</h2> 
 
-Hello, my name is Larissa. 😊
+<h3>Hello, my name is Larissa. 😊</h3>
 
 🌱 I'm learning technologies as:
  
@@ -33,6 +33,14 @@ Hello, my name is Larissa. 😊
  
  
 📧 o.larissax@gmail.com
+
+
+
+<div align="center">
+  
+  [![Larissa Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=redpyxel&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <!--
 **redpyxel/redpyxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
