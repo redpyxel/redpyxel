@@ -16,19 +16,20 @@
  
 
 🌱 I'm studying:
- 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
+
+![Python](https://img.shields.io/badge/-Python-FFFF00?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-191970?style=flat-square&logo=mysql)
+![C#](https://img.shields.io/badge/-Csharp-00599C?style=flat-square&logo=csharp)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 
 📚 I wanna learn:
  
- ![MySQL](https://img.shields.io/badge/-MySQL-191970?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-darkgreen?style=flat-square&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-FFFF00?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/-Csharp-00599C?style=flat-square&logo=csharp)
+
  
 <p>📧 o.larissax@gmail.com</p>
 
