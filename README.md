@@ -18,8 +18,10 @@
 🌱 I'm studying:
 
 ![Python](https://img.shields.io/badge/-Python-FFFF00?style=flat-square&logo=Python)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-191970?style=flat-square&logo=mysql)
 ![C#](https://img.shields.io/badge/-Csharp-00599C?style=flat-square&logo=csharp)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 📚 I wanna learn:
