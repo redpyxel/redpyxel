@@ -1,4 +1,4 @@
- <h2 align="center">💻 Front-End Developer</h2> 
+ <h2 align="center">💻 Developer</h2> 
 
 <h3>Hello, my name is Larissa. 😊</h3>
 
