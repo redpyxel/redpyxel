@@ -1,8 +1,11 @@
-<h2> Hi, I'm Larissa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>FullStack Developer at <a href="https://www.ibm.com/br-pt">IBM Brasil</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<div align='center'>
+<img align='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p2ZXpieWh2NHg0ZTc5M3I4bmk0bTFtMHFhaHVmZnpucmM2eTg2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="250">
+<p><em>I'm a FullStack Developer Intern at @ <a href="https://www.ibm.com/br-pt">IBM</a>.</em></p>
+</div>
 
+
+### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJiY2ZqeTcycGJ5NzY3YzU2dmhkdDd4dTJsNXcycXhmZm83Y3M4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K16aUytpG7JybNAfWH/giphy.gif" width="50"> More about me...  
 
 ```javascript
 
@@ -11,22 +14,28 @@ const lari = {
         fullName: 'Larissa Ferreira',
         birthDate: '1997-10-17',
         pronouns: 'she' | 'her',
-        interests: ['music', 'movies', 'games', 'anime', 'cooking', 'Batman's universe', 'animations'],
-        motivation: 'Making people's life better through tech',
+        interests: ['music', 'movies', 'games', 'anime', 'cooking', 'Batman universe', 'animations'],
+        motivation: 'Making people life better through tech',
     },
     technical: {
         technologies: {
             frontEnd: [ HTML, CSS, Javascript, Typescript, Angular, Bootstrap, PrimeFlex, PrimeNG, SCSS, Jest],
-            backEnd: [ Java, Oracle SQL ],
-            tools: [ Yarn, Docker, Git, Github, Jira ],
-            IDEs: [ VS Code, IntelliJ ],
+            backEnd: [ Java ],
+            database: [ MySQL ],
+            devOps: [ Docker, Jenkins, AWS],
+            tools: [ Git, Github, Gitlab, Jira ],
+            packageManager: [ NPM, Yarn ],
+            IDE: [ VSCode, IntelliJ ],
+            mis: [ SCRUM ],
         },
     }
 }
 ```
-
-[![Linkedin: larissaferreira](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissax/)](https://www.linkedin.com/in/larissax/)
-[![GitHub Larissa](https://img.shields.io/github/followers/larissa?label=follow&style=social)](https://github.com/redpyxel)
+<div align='center'>
+    
+[![Linkedin: larissaferreira](https://img.shields.io/badge/-larissax-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissax/)](https://www.linkedin.com/in/larissax/)
+[![GitHub Larissa Ferreira](https://img.shields.io/github/followers/redpyxel?label=follow&style=social)](https://github.com/redpyxel)
+</div>
 
 ---
 
