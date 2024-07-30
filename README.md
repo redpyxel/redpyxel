@@ -2,13 +2,14 @@
 <div align='center'>
 <img align='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p2ZXpieWh2NHg0ZTc5M3I4bmk0bTFtMHFhaHVmZnpucmM2eTg2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="250">
 <p><em>I'm a FullStack Developer Intern at @ <a href="https://www.ibm.com/br-pt">IBM</a>.</em></p>
-</div>
 
+<details>
+    <summary>
+        More about me... <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJiY2ZqeTcycGJ5NzY3YzU2dmhkdDd4dTJsNXcycXhmZm83Y3M4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K16aUytpG7JybNAfWH/giphy.gif" width="50">  </summary>
 
-### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJiY2ZqeTcycGJ5NzY3YzU2dmhkdDd4dTJsNXcycXhmZm83Y3M4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K16aUytpG7JybNAfWH/giphy.gif" width="50"> More about me...  
-
+<div align='left'>
+    
 ```javascript
-
 const lari = {
     personal: {
         fullName: 'Larissa Ferreira',
@@ -20,18 +21,21 @@ const lari = {
     technical: {
         technologies: {
             frontEnd: [ HTML, CSS, Javascript, Typescript, Angular, Bootstrap, PrimeFlex, PrimeNG, SCSS, Jest],
-            backEnd: [ Java ],
-            database: [ MySQL ],
-            devOps: [ Docker, Jenkins, AWS],
-            tools: [ Git, Github, Gitlab, Jira ],
-            packageManager: [ NPM, Yarn ],
-            IDE: [ VSCode, IntelliJ ],
-            mis: [ SCRUM ],
+                backEnd: [ Java ],
+                database: [ MySQL ],
+                devOps: [ Docker, Jenkins, AWS],
+                tools: [ Git, Github, Gitlab, Jira ],
+                packageManager: [ NPM, Yarn ],
+                IDE: [ VSCode, IntelliJ ],
+                mis: [ SCRUM ],
         },
     }
 }
+
 ```
-<div align='center'>
+</div>
+    
+</details>
     
 [![Linkedin: larissaferreira](https://img.shields.io/badge/-larissax-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissax/)](https://www.linkedin.com/in/larissax/)
 [![GitHub Larissa Ferreira](https://img.shields.io/github/followers/redpyxel?label=follow&style=social)](https://github.com/redpyxel)
