@@ -20,14 +20,14 @@ const lari = {
     },
     technical: {
         technologies: {
-            frontEnd: [ HTML, CSS, Javascript, Typescript, Angular, Bootstrap, PrimeFlex, PrimeNG, SCSS, Jest],
-                backEnd: [ Java ],
-                database: [ MySQL ],
-                devOps: [ Docker, Jenkins, AWS],
-                tools: [ Git, Github, Gitlab, Jira ],
-                packageManager: [ NPM, Yarn ],
-                IDE: [ VSCode, IntelliJ ],
-                mis: [ SCRUM ],
+            frontEnd: [ HTML, CSS, Javascript, Typescript, Angular],
+            backEnd: [ Java, Spring Boot ],
+            database: [ MySQL ],
+            devOps: [ Docker, Jenkins, AWS],
+            tools: [ Git, Github, Gitlab, Jira ],
+            packageManager: [ NPM, Yarn ],
+            IDE: [ VSCode, IntelliJ ],
+            agileFramework: [ SCRUM ],
         },
     }
 }
