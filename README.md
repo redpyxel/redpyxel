@@ -21,9 +21,8 @@ const lari = {
     technical: {
         technologies: {
             frontEnd: [ HTML, CSS, Javascript, Typescript, Angular],
-            backEnd: [ Java, Spring Boot ],
-            database: [ Oracle SQL ],
-            devOps: [ Docker, Jenkins, AWS],
+            backEnd: [ Java ],
+            database: [ Oracle SQL Developer ],
             tools: [ Git, Github, Jira ],
             packageManager: [ NPM, Yarn ],
             IDE: [ VSCode, IntelliJ ],
