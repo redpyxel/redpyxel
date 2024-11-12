@@ -1,7 +1,8 @@
 <h2> Hi there! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJiY2ZqeTcycGJ5NzY3YzU2dmhkdDd4dTJsNXcycXhmZm83Y3M4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K16aUytpG7JybNAfWH/giphy.gif" width="40"></h2>
 <div align='center'>
 <img align='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p2ZXpieWh2NHg0ZTc5M3I4bmk0bTFtMHFhaHVmZnpucmM2eTg2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="250">
-<p><em>I'm a FullStack Developer Intern at @ <a href="https://www.ibm.com/br-pt">IBM</a>.</em></p>
+<!--<p><em>I'm a FullStack Developer Intern at @ <a href="https://www.ibm.com/br-pt">IBM</a>.</em></p>-->
+<p><em>I'm a Software Developer</p>
 
 <details>
     <summary>
